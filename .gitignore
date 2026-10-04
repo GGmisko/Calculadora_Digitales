@@ -1,0 +1,24 @@
+# Quartus generated files
+db/
+incremental_db/
+
+# Quartus temporary/workspace files
+*.qws
+
+# ModelSim generated files
+simulation/modelsim/
+
+# Backup files
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
